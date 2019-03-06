@@ -56,7 +56,7 @@ For this section of the application we ask you to submit a project that you have
 ## Help
 
 
-###GitHub
+### GitHub
 
 If you do not feel comfortable with Git and GitHub then we encourage that you spend some time becoming familiar with their workings. Below are some resources we encourage you to use: 
 
