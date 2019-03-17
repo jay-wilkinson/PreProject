@@ -106,3 +106,28 @@ We have compiled a list of resources that you can draw upon to help you get your
 
 
 
+## Project Ideas
+
+The purpose of this submission is to demonstrate to us that you are committed to learning to code and that you have a demonstrated ability to teach yourself something. 
+
+If you have not go any projects to submit then we suggest that you spend some time working on a project. There is no rush or deadline to complete this - applications are done on a rolling basis and there are new cohorts starting regularly. It is better to take your time and complete your application thoroughly than rushing through it. 
+
+You can find some ideas for projects listed below:
+
+ 
+* [Web scraping projects](https://www.udemy.com/python-master-web-scraping-course-doing-20-real-projects/)
+* [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+* [Karan Goel’s Mega Project List](https://github.com/karan/Projects)
+* [/r/DailyProgrammer on Reddit](https://www.reddit.com/r/dailyprogrammer)
+* [Code Abbey](http://www.codeabbey.com/)
+* [“I Need Practice Programming”: 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+* [Beginner project ideas](http://www.programmingforbeginnersbook.com/blog/what_should_i_make_beginner_programming_project_ideas/)
+* [Python code club projects (v. basic projects)](https://codeclubprojects.org/en-GB/python/)
+* [More very basic python projects](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
+
+
+
+
+
+
+
