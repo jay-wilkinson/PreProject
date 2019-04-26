@@ -75,8 +75,8 @@ If you do not feel comfortable with Git and GitHub then we encourage that you sp
 | Static Websites (just HTML and CSS files)       | AWS S3                    |    
 | Single Page Web Apps                            | Netlify                   |           
 | Other web apps                                  | AWS EC2                   |           
-| Non-HTTP Python Projects                        | [www.repl.it](www.repl.it)|
-| Other Non-HTTP Projects                         | [www.repl.it](www.repl.it)|        |    
+| Non-HTTP Python Projects                        | [www.repl.it](https://www.repl.it)|
+| Other Non-HTTP Projects                         | [www.repl.it](https://www.repl.it)|        |    
 
 
 We have compiled a list of resources that you can draw upon to help you get your project live. Let us know at <oliver.birch@modernlabor.com> if you are having any issues.
